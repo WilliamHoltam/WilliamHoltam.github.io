@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How do you test serverless data pipelines?!?!"
+title:  "How do you test serverless data pipelines?"
 date:   2022-12-28 19:53
 categories: development
 ---
