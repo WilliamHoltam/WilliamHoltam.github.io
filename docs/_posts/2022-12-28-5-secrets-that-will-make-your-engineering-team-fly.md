@@ -2,7 +2,7 @@
 layout: post
 title:  "5 Secrets That Will Make Your Engineering Team Fly"
 date:   2022-12-28 19:53
-categories: DevOps, Data Engineering
+categories: development
 ---
 
 1. Minimise meetings, but encourage frequent communication

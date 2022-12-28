@@ -2,7 +2,7 @@
 layout: post
 title:  "How do you test serverless data pipelines?!?!"
 date:   2022-12-28 19:53
-categories: DevOps, Data Engineering
+categories: development
 ---
 
 As cloud architectures abstract further from the underlying infrastructure upon which the code is running, more testing has to be automated. This is a natural consequence of:
