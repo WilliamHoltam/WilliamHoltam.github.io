@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Will's Data and DevSecOps Blog
+title: Will's DataOps and DevSecOps Blog
 email: william.holtam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal blog, for me to pour out my ramblings onto a page
   and construct, what I hope to be, a thoughtful contribution to the DataOps 
-  and DevOps blogosphere.
+  and DevSecOps blogosphere.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://williamholtam.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: williamholtam1
