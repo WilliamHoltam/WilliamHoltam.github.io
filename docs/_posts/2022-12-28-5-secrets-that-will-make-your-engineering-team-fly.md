@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "5 Secrets That Will Make Your Engineering Team Fly"
+title:  "5 secrets that will make your engineering team fly!"
 date:   2022-12-28 19:53
 categories: development
 ---
